@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\bin\Debug\net6.0\FavNumber.exe
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\bin\Debug\net6.0\FavNumber.deps.json
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\bin\Debug\net6.0\FavNumber.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\bin\Debug\net6.0\FavNumber.dll
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\bin\Debug\net6.0\FavNumber.pdb
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.dll
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\refint\FavNumber.dll
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.pdb
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\FavNumber.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\FavNumber\FavNumber\obj\Debug\net6.0\ref\FavNumber.dll
